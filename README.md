@@ -1,2 +1,1 @@
-# Natours-Project
-Travels app
+# Project
